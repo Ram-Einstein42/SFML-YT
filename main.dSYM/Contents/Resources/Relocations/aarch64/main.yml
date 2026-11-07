@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/joyboy/SFML/SFML-YT/main'
+relocations:     []
+...
